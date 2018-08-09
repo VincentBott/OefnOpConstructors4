@@ -30,7 +30,7 @@ public class Cursus {
     }
 
     public int getAantalCursisten() {
-        return this.maxCursisten;
+        return teller;
     }
 
     public String getCursist(int i) {
